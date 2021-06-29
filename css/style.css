@@ -1,5 +1,36 @@
 *{
 	margin: 0px;
 	padding: 0px;
+	font-family:'Roboto', sans-serif; 
+	box-sizing: border-box;
 }
 
+.navbar li {
+	padding: 0px 20px;
+}
+
+.navbar ul {
+	list-style: none;
+	display: flex;
+}
+
+.navbar a {
+	text-decoration: none;
+	color: black;
+}
+
+.navbar img.logo {
+	width: 160px;
+	margin-right: 200px;
+}
+
+.navbar {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+
+.container {
+	background-color: beige;
+}
