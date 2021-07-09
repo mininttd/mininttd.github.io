@@ -66,3 +66,13 @@
 	padding: 12px 4px;
 	cursor: pointer;
 }
+
+
+.iicon{
+	text-align: center;
+}
+
+.iicon i{
+	font-size: 400px;
+	color: skyblue;
+}
